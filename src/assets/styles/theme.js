@@ -20,8 +20,6 @@ export const colors = {
 };
 
 export const font = {
-  neuville: 'Neuville, sans-serif',
-  ssp: `'Source Sans Pro', sans-serif`,
   size: {
     header: '4.5rem',
     paragraph: '1.7rem',
